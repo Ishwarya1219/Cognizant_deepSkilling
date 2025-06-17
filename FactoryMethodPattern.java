@@ -41,6 +41,7 @@ public class FactoryMethodPattern {
         return new PdfDoc();
     } 
   }
+  
    static class ExcelFactory extends DocumentFactory{
     public Document createDocument(){
         return new ExlDoc();
