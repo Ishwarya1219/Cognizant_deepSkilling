@@ -12,7 +12,8 @@ public class BinarySearch {
             if(cmp==0)
         
             return pros[mid];
-            if(cmp<0) left=mid+1;
+            if(cmp<0)
+             {left=mid+1;}
             else right=mid-1;
         }
         return null;
