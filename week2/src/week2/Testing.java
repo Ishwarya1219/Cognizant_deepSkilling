@@ -13,6 +13,7 @@ public class Testing {
 	public void testAdd() {
 		assertEquals(5,c.add(2, 3));
 	}
+	
 	@Test
 	public void testDivideByZero() {
         c.divide(10, 0);

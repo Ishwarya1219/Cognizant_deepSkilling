@@ -5,6 +5,7 @@ public class LoggingExample {
 	
 	
 	
+	
 	private static final Logger logger = LoggerFactory.getLogger(LoggingExample.class);
 	public static void main(String[] args) {
 	logger.error("This is an error message");
