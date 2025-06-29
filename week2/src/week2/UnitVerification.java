@@ -6,6 +6,7 @@ public class UnitVerification {
 
 	public class MyServiceTest {
 
+		
 	    @Test
 	    public void testVerifyInteraction() {
 	        ExternalApi mockApi = Mockito.mock(ExternalApi.class);

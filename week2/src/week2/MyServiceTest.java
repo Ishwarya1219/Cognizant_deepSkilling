@@ -2,6 +2,7 @@ package week2;
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
 
+
 import org.junit.Test;
 import org.mockito.Mockito;
 // Define a fake API
