@@ -1,5 +1,4 @@
 package week2;
-
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
 
