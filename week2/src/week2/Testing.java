@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class Testing {
+	
 	 Calculator c = new Calculator();
 	@Test
 	public void testAdd() {
