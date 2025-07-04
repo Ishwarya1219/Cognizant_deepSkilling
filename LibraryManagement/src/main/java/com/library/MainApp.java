@@ -7,6 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class MainApp {
     public static void main(String[] args) {
     	
+    	
     	        System.out.println("Main method started"); // 🔍 debug print
 
     	        ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");

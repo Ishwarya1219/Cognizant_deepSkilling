@@ -1,6 +1,7 @@
 package com.cognizant.ormlearn.model;
 import jakarta.persistence.*;
 @Entity
+
 @Table(name = "country")
 public class Country {
 

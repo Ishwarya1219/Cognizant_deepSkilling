@@ -1,5 +1,6 @@
 package com.cognizant.ormlearn;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.cognizant.ormlearn.model.Country;
