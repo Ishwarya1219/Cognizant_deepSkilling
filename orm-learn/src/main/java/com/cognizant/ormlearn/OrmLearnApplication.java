@@ -35,3 +35,4 @@ public class OrmLearnApplication {
         LOGGER.info("End");
     }
 }
+
